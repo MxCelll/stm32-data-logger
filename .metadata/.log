@@ -1,0 +1,27 @@
+!SESSION 2026-08-05 20:42:50.933 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_ID
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-08-05 20:43:14.605
+!MESSAGE Log4j2 initialized with config file C:\Users\MxCel\Projects\stm32-data-logger\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-08-05 20:43:30.268
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-08-05 20:43:30.335
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM5
+COM4
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-08-05 20:43:30.359
+!MESSAGE port: COM5
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-08-05 20:43:30.379
+!MESSAGE port: COM4
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-08-05 20:45:13.789
+!MESSAGE Indexed 'DataLogger' (3 sources, 53 headers) in 1.16 sec: 1,954 declarations; 2,866 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
