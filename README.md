@@ -23,5 +23,5 @@ Dibuat oleh: Muhammad Excel Trisnaro (Mahasiswa Teknologi Rekayasa Sistem Elektr
 - [x] Struktur folder siap
 - [x] Project CubeIDE + debug simulator
 - [x] Blinky LED pertama
-- [ ] Komunikasi serial (UART)
-- [ ] Integrasi sensor MAX6675 (SPI)
+- [x] Komunikasi serial (UART)
+- [x] Integrasi sensor MAX6675 (SPI)
